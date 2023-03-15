@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-with-mentor-120323/static/css/main.7acaea2f.css",
+    "main.js": "/goit-with-mentor-120323/static/js/main.6ae7ffc6.js",
+    "index.html": "/goit-with-mentor-120323/index.html",
+    "main.7acaea2f.css.map": "/goit-with-mentor-120323/static/css/main.7acaea2f.css.map",
+    "main.6ae7ffc6.js.map": "/goit-with-mentor-120323/static/js/main.6ae7ffc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.6ae7ffc6.js"
+  ]
+}
